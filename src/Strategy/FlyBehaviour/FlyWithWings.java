@@ -1,4 +1,4 @@
-package SimUDuck.FlyBehaviour;
+package Strategy.FlyBehaviour;
 
 public class FlyWithWings implements FlyBehaviour{
     @Override

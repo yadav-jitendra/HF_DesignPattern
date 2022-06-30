@@ -1,6 +1,6 @@
-package SimUDuck;
+package Strategy;
 
-import SimUDuck.FlyBehaviour.FlyRocketPowered;
+import Strategy.FlyBehaviour.FlyRocketPowered;
 
 public class DuckSimulator {
     public static void main(String[] args) {

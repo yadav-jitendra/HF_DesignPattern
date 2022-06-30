@@ -1,6 +1,4 @@
-package SimUDuck.QuackBehaviour;
-
-import SimUDuck.QuackBehaviour.QuackBehaviour;
+package Strategy.QuackBehaviour;
 
 public class MuteQuack implements QuackBehaviour {
     @Override
